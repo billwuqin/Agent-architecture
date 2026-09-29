@@ -4,16 +4,16 @@
 
 This is the working area for the individual Internet-Draft, "Network Digital Twin based Architecture for AI Driven Network Operation".
 
-* [Editor's Copy](https://QiufangMa.github.io/Agent-architecture/#go.draft-wmz-nmrg-agent-ndt-arch.html)
+* [Editor's Copy](https://billwuqin.github.io/Agent-architecture/#go.draft-wmz-nmrg-agent-ndt-arch.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-wmz-nmrg-agent-ndt-arch)
 * [Individual Draft](https://datatracker.ietf.org/doc/html/draft-wmz-nmrg-agent-ndt-arch)
-* [Compare Editor's Copy to Individual Draft](https://QiufangMa.github.io/Agent-architecture/#go.draft-wmz-nmrg-agent-ndt-arch.diff)
+* [Compare Editor's Copy to Individual Draft](https://billwuqin.github.io/Agent-architecture/#go.draft-wmz-nmrg-agent-ndt-arch.diff)
 
 
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/QiufangMa/Agent-architecture/blob/main/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/billwuqin/Agent-architecture/blob/main/CONTRIBUTING.md).
 
 Contributions can be made by creating pull requests.
 The GitHub interface supports creating pull requests using the Edit (✏) button.
